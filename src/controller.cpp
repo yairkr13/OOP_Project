@@ -3,6 +3,6 @@
 
 void Controller::startGame() {
     std::cout << "============================\n";
-    std::cout << "      המשחק התחיל! 🎮\n";
+    std::cout << "      The game Begin 🎮\n";
     std::cout << "============================\n";
 }
