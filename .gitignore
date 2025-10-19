@@ -1,0 +1,19 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# CMake generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+
+# Build output
+build/
+out/
+[Bb]in/
+[Oo]bj/
+
+# Misc
+*.log
